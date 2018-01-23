@@ -40,11 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enum1.cs" />
     <Compile Include="Models\Expense.cs" />
+    <Compile Include="Models\InvestementAmount.cs" />
     <Compile Include="Models\OwnerDrow.cs" />
     <Compile Include="Models\Revenue.cs" />
     <Compile Include="Models\BusinessOwner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BusinessLogics\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDigram\ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

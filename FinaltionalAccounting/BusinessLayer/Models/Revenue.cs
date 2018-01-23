@@ -6,18 +6,19 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Models
 {
-    class Revenue
+    public class Revenue : BusinessOwner
     {
+        int RevenueID { get; set; }
         //revenu amount
         public double revenuAmount { get; set; }
         //revenu type
         public RevenuType revenuType { get; set; }
         //items
-        public string Items { get; set; }        
+        public string Items { get; set; }
         public DateTime dateTime { get; set; }
     }
     //types of revenu
-    enum RevenuType
+    public enum RevenuType
     {
         //by providing service
         feesEarnedReevenu,

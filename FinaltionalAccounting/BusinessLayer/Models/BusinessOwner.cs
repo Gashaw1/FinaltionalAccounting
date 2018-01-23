@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Models
 {
-    class BusinessOwner
+    public class BusinessOwner
     {
-        TypeBusinessOwner ownerType;
-        //type of business pro
-        TypeOfBusiness typeOfBusiness;
-        //type of investement (cash or credit)
-        InvestmentType types;
-        //Investemtn amount
-        public double investementAmount { get; set; } 
-        public Expense expense { get; set; }
-        public Revenue revenue { get; set; }
-        public OwnerDrow ownerDrows { get; set; }        
-        public DateTime dateTime { get; set; }
+        protected int BusinessOwnerID { get; set; }
 
-    }   
+        TypeBusinessOwner ownerType { get; set; }
+        //type of business pro
+        TypeOfBusiness typeOfBusiness { get; set; }
+        //type of investement (cash or credit)
+        InvestmentType investementTypes { get; set; }   
+        //Investemtn amount       
+        protected DateTime dateTime { get; set; }
+
+    }
     enum TypeBusinessOwner
     {
         Proprietorship,

@@ -14,8 +14,6 @@ C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLaye
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\DataAccessLayer.dll.config
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\DataAccessLayer.dll
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\DataAccessLayer.pdb
-C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\DataAccessLayer.dll.CodeAnalysisLog.xml
-C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\DataAccessLayer.dll.lastcodeanalysissucceeded
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\DataAccessLayer\bin\Microsoft.AI.PerfCounterCollector.dll

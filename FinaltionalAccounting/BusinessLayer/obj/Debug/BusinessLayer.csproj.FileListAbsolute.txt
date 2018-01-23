@@ -1,1 +1,5 @@
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\BusinessLayer\obj\Debug\BusinessLayer.pdb

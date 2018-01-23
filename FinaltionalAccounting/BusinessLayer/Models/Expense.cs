@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Models
 {
-    public class Expense
+    public class Expense : BusinessOwner
     {
+        public int ExpenseID { get; set; }        
         public double expenseAmount { get; set; }
         ExpenseType expenseType { get; set; }
         public string Items { get; set; }        
