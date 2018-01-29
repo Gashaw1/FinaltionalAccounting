@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseBLO\bin\Debug\ExpenseBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseBLO\bin\Debug\ExpenseBLO.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseBLO\bin\Debug\OwnerBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseBLO\bin\Debug\OwnerBLO.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseBLO\obj\Debug\ExpenseBLO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseBLO\obj\Debug\ExpenseBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseBLO\obj\Debug\ExpenseBLO.pdb

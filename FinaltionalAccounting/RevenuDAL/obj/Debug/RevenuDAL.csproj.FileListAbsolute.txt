@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuDAL\bin\Debug\RevenuDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuDAL\bin\Debug\RevenuDAL.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuDAL\obj\Debug\RevenuDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuDAL\obj\Debug\RevenuDAL.pdb

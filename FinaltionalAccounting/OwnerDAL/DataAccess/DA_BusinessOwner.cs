@@ -10,12 +10,12 @@ namespace DataAccessLayer.DataAccess
 {
     public class DA_BusinessOwner
     {
-        private string cs = ConfigurationManager.ConnectionStrings["DbContexts"].ConnectionString;
+       // private string cs = ConfigurationManager.ConnectionStrings["DbContexts"].ConnectionString;
         //return all business info
         public DataSet ReturnBusinessOwner()
         {
             DataSet dataSet = new DataSet();
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 SqlCommand cmd = new SqlCommand("SP_Return_All_Users", con);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -28,7 +28,7 @@ namespace DataAccessLayer.DataAccess
         public DataSet ReturnBusinessOwner(int businessOwnerID) 
         {
             DataSet dataSet = new DataSet();
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 SqlCommand cmd = new SqlCommand("Sp", con);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -44,7 +44,7 @@ namespace DataAccessLayer.DataAccess
         public bool InsertBusinessOwner(string ownerType, string typeOfBusiness , string investementTypes, string dateTime)   
         {
 
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 con.Open();
                 SqlCommand cmd = new SqlCommand("sp_AddBusiness", con);
@@ -76,7 +76,7 @@ namespace DataAccessLayer.DataAccess
         //Update user by user id
         public bool UpdateBusinessOwner(int businessOwnerID, string ownerType, string typeOfBusiness, string investementTypes)  
         {
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 con.Open();
                 SqlCommand cmd = new SqlCommand("SP", con);

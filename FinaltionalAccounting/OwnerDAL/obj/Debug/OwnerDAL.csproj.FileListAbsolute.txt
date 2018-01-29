@@ -1,1 +1,5 @@
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerDAL\obj\Debug\OwnerDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerDAL\bin\Debug\OwnerDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerDAL\bin\Debug\OwnerDAL.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerDAL\obj\Debug\OwnerDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerDAL\obj\Debug\OwnerDAL.pdb

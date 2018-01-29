@@ -1,1 +1,5 @@
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseDAL\obj\Debug\ExpenseDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseDAL\bin\Debug\ExpenseDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseDAL\bin\Debug\ExpenseDAL.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseDAL\obj\Debug\ExpenseDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\ExpenseDAL\obj\Debug\ExpenseDAL.pdb

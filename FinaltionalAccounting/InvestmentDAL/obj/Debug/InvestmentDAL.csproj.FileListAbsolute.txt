@@ -1,1 +1,5 @@
 C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentDAL\obj\Debug\InvestmentDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentDAL\bin\Debug\InvestmentDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentDAL\bin\Debug\InvestmentDAL.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentDAL\obj\Debug\InvestmentDAL.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentDAL\obj\Debug\InvestmentDAL.pdb

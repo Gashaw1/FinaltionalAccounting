@@ -10,12 +10,12 @@ namespace DataAccessLayer.DataAccess
 {
     public class DA_OwnerDrow
     {
-        private string cs = ConfigurationManager.ConnectionStrings["DbContexts"].ConnectionString;
+        //private string cs = ConfigurationManager.ConnectionStrings["DbContexts"].ConnectionString;
         //return all business info
         public DataSet ReturnOwnerDrow()    
         {
             DataSet dataSet = new DataSet();
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 SqlCommand cmd = new SqlCommand("SP", con);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -28,7 +28,7 @@ namespace DataAccessLayer.DataAccess
         public DataSet ReturnOwnerDrow(int OwnerDrowId) 
         {
             DataSet dataSet = new DataSet();
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 SqlCommand cmd = new SqlCommand("", con);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -44,7 +44,7 @@ namespace DataAccessLayer.DataAccess
         public bool InsertOwnerDrow(double drowamount) 
         {
 
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 con.Open();
                 SqlCommand cmd = new SqlCommand("sp_", con);
@@ -70,7 +70,7 @@ namespace DataAccessLayer.DataAccess
         //Update user by user id
         public bool UpdateExpesne(int OwnerDrowID, double drowamount, string expenseType, string Items)
         {
-            using (SqlConnection con = new SqlConnection(cs))
+            using (SqlConnection con = new SqlConnection(""))
             {
                 con.Open();
                 SqlCommand cmd = new SqlCommand("SP", con);

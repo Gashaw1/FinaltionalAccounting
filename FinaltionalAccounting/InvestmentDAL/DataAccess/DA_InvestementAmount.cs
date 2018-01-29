@@ -10,7 +10,7 @@ namespace DataAccessLayer.DataAccess
 {
     public class DA_InvestementAmount
     {
-        private string cs = ConfigurationManager.ConnectionStrings["DbContexts"].ConnectionString;
+        private string cs = "";
         //return all business info
         public DataSet ReturnInvestementAmount()
         {
