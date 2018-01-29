@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BusinessLayer.Models
 {
@@ -15,18 +11,21 @@ namespace BusinessLayer.Models
         public RevenuType revenuType { get; set; }
         //items
         public string Items { get; set; }
-        public DateTime dateTime { get; set; }
+        public DateTime dateTimeRevenu { get; set; }    
+              
+       
     }
+
     //types of revenu
     public enum RevenuType
     {
         //by providing service
-        feesEarnedReevenu,
+        feesEarnedReevenu = 1,
         //by seal merchandise
-        saleRevenu,
+        saleRevenu = 2,
         //by rent house
-        rentRevenu,
+        rentRevenu = 3,
         //by collecting intrest
-        interstRevenue
+        interstRevenue = 4
     }
 }

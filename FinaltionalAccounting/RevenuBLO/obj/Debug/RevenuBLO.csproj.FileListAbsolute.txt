@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuBLO\bin\Debug\RevenuBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuBLO\bin\Debug\RevenuBLO.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuBLO\bin\Debug\OwnerBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuBLO\bin\Debug\OwnerBLO.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuBLO\obj\Debug\RevenuBLO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuBLO\obj\Debug\RevenuBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\RevenuBLO\obj\Debug\RevenuBLO.pdb

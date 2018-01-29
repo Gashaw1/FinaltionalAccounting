@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerBLO\bin\Debug\OwnerBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerBLO\bin\Debug\OwnerBLO.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerBLO\obj\Debug\OwnerBLO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerBLO\obj\Debug\OwnerBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\OwnerBLO\obj\Debug\OwnerBLO.pdb

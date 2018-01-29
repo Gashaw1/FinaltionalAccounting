@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentBLO\bin\Debug\InvestmentBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentBLO\bin\Debug\InvestmentBLO.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentBLO\bin\Debug\OwnerBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentBLO\bin\Debug\OwnerBLO.pdb
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentBLO\obj\Debug\InvestmentBLO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentBLO\obj\Debug\InvestmentBLO.dll
+C:\Users\User\Desktop\FinaltionalAccounting\FinaltionalAccounting\InvestmentBLO\obj\Debug\InvestmentBLO.pdb
